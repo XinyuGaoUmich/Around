@@ -143,7 +143,7 @@ const (
 	PROJECT_ID = "shaped-glazing-199302"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.184.85.252:9200"
+	ES_URL = "http://35.184.95.77:9200"
 )
 
 
