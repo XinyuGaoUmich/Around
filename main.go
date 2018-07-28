@@ -136,12 +136,12 @@ func saveToES(p *Post, id string) {
 
 
 const (
-	INDEX = "around"
+	INDEX = "wepost"
 	TYPE = "post"
 	DISTANCE = "200km"
 	// Needs to update
 	PROJECT_ID = "shaped-glazing-199302"
-	BT_INSTANCE = "around-post"
+	BT_INSTANCE = "wepost-post"
 	// Needs to update this URL if you deploy it to cloud.
 	ES_URL = "http://35.184.95.77:9200"
 )
